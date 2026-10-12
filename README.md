@@ -23,7 +23,7 @@ I'm an **AI & ML undergraduate** at Saveetha School of Engineering, Chennai, pas
 - 🔬 Obsessed with building scalable ML pipelines and deploying them with Docker + REST APIs
 - 💡 Firm believer that **great engineering = great problem framing + clean code + rigorous testing**
 - ⚡ Hit **100% in SSC** — yes, really. The overachiever gene is real.
-- 📧 Reach me: **nitheeshkumar456@gmail.com**
+- 📧 Reach me: **kondapallinitheesh456@gmail.com**
 
 ---
 
